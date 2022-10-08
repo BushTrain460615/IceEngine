@@ -3,6 +3,7 @@ package;
 import haxe.ui.HaxeUIApp;
 import haxe.ui.components.Button;
 import haxe.ui.components.Label;
+import haxe.ui.ComponentBuilder;
 import haxe.ui.core.Component;
 import haxe.ui.macros.ComponentMacros;
 import sys.io.File;
